@@ -1,4 +1,4 @@
-# CNN-f_mnist Convolutional Neural Network on fashion-mnist dataset of Zolando
+# Convolutional Neural Network on fashion-mnist dataset of Zolando
  This is a convolutional network on the fashion mnist dataset of Zalando
 
 Objective – Create a Classification Deep learning model using the Keras/Tensorflow framework
