@@ -1,0 +1,10 @@
+tensorflow>=2.12.0
+keras>=2.12.0
+numpy>=1.23.0
+pandas>=1.5.0
+seaborn>=0.12.0
+matplotlib>=3.6.0
+scikit-learn>=1.2.0
+jupyter>=1.0.0
+visualkeras>=0.0.2
+ann-visualizer>=2.5.0
